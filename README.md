@@ -1,11 +1,10 @@
 # Shallow-Models-Training-Validation-and-Tuning
 
-Machine Learning Foundations: 
-Shallow Models Training, Validation and Tuning
+Machine Learning Foundations: Shallow Models Training, Validation and Tuning
 
-Apr 30, 2026
+Welcome to Assignment II! 
 
-Welcome to Assignment II! In this challenge, you will build upon our established EDA and feature engineering skills while utilizing the new modeling tools you have acquired to predict the number of daily bike rentals for a bike-sharing system. Our predictions will be based on weather, seasonal, and temporal features using three regression algorithms of increasing complexity. You will conduct feature engineering, tune hyperparameters, compare model performance, and select the best model with the highest predictive accuracy and minimal bias. The full text of the assignment is available on our Blackboard.
+  In this challenge, you will build upon our established EDA and feature engineering skills while utilizing the new modeling tools you have acquired to predict the number of daily bike rentals for a bike-sharing system. Our predictions will be based on weather, seasonal, and temporal features using three regression algorithms of increasing complexity. You will conduct feature engineering, tune hyperparameters, compare model performance, and select the best model with the highest predictive accuracy and minimal bias. The full text of the assignment is available on our Blackboard.
 
 Submission
   - Please submit your notebook in PDF format to Blackboard.
